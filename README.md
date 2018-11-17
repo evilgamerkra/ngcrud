@@ -1,2 +1,2 @@
 # ngcrud
-angular project
+angular project with curd opration
