@@ -1,0 +1,2 @@
+# ngcrud
+angular project
